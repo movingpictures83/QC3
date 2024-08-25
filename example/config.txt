@@ -1,0 +1,2 @@
+Prefix plugins/QC3/example/
+Plugin QC3 inputfile inputfiles outputfile ./
